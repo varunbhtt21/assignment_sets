@@ -1,0 +1,5 @@
+# Ignore template directory
+Template/
+
+# Ignore cmd directory
+cmd/
