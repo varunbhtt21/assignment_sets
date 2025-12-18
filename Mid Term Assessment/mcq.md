@@ -3,7 +3,7 @@
 
 ---
 
-### Q1.
+### Q1. `Easy`
 
 What is the time complexity of accessing an element in an array by its index?
 
@@ -21,7 +21,7 @@ D. O(n²)
 
 ---
 
-### Q2.
+### Q2. `Easy`
 
 Which of the following operations has O(n) time complexity for an array of size n?
 
@@ -39,7 +39,7 @@ D. Checking if array is empty
 
 ---
 
-### Q3.
+### Q3. `Medium`
 
 In a 2D array stored in row-major order, what is the formula to access element at position (i, j) in an array with m rows and n columns?
 
@@ -57,7 +57,7 @@ D. base_address + (i × j) × element_size
 
 ---
 
-### Q4.
+### Q4. `Medium`
 
 What is the time complexity of rotating an array of size n by k positions?
 
@@ -75,7 +75,7 @@ D. O(n × k)
 
 ---
 
-### Q5.
+### Q5. `Hard`
 
 Which string matching algorithm has the best worst-case time complexity?
 
@@ -93,7 +93,7 @@ D. Rabin-Karp - O(m × n)
 
 ---
 
-### Q6.
+### Q6. `Easy`
 
 What is the time complexity of checking if a string is a palindrome?
 
@@ -111,7 +111,7 @@ D. O(n²)
 
 ---
 
-### Q7.
+### Q7. `Hard`
 
 The Sieve of Eratosthenes algorithm is used to find all prime numbers up to n. What is its time complexity?
 
@@ -129,7 +129,7 @@ D. O(n²)
 
 ---
 
-### Q8.
+### Q8. `Easy`
 
 What is the GCD (Greatest Common Divisor) of 48 and 18?
 
@@ -147,7 +147,7 @@ D. 12
 
 ---
 
-### Q9.
+### Q9. `Easy`
 
 If GCD(a, b) = g, then LCM(a, b) can be calculated as:
 
@@ -165,7 +165,7 @@ D. (a + b) / g
 
 ---
 
-### Q10.
+### Q10. `Easy`
 
 In modular arithmetic, what is (37 × 45) mod 10?
 
@@ -183,7 +183,7 @@ D. 1665
 
 ---
 
-### Q11.
+### Q11. `Medium`
 
 What is 2^10 mod 1000 using binary exponentiation?
 
@@ -201,7 +201,7 @@ D. 324
 
 ---
 
-### Q12.
+### Q12. `Medium`
 
 Which property of modular arithmetic is INCORRECT?
 
@@ -219,7 +219,7 @@ D. (a / b) mod m = ((a mod m) / (b mod m)) mod m
 
 ---
 
-### Q13.
+### Q13. `Easy`
 
 In the two-pointer technique, when is it most effective to use opposite-directional pointers?
 
@@ -237,7 +237,7 @@ D. Finding the middle element of an array
 
 ---
 
-### Q14.
+### Q14. `Medium`
 
 What is the time complexity of finding the longest substring without repeating characters using sliding window?
 
@@ -255,7 +255,7 @@ D. O(2^n)
 
 ---
 
-### Q15.
+### Q15. `Easy`
 
 In a sliding window of fixed size k on an array of size n, how many total windows are there?
 
@@ -273,7 +273,7 @@ D. n
 
 ---
 
-### Q16.
+### Q16. `Easy`
 
 What is the most efficient way to find the maximum sum subarray of size k in an array?
 
@@ -291,7 +291,7 @@ D. Use dynamic programming - O(n²)
 
 ---
 
-### Q17.
+### Q17. `Medium`
 
 Which of the following is NOT a valid application of the two-pointer technique?
 
@@ -309,7 +309,7 @@ D. Merging two sorted arrays
 
 ---
 
-### Q18.
+### Q18. `Easy`
 
 What is the space complexity of the Sieve of Eratosthenes algorithm to find all primes up to n?
 
@@ -327,7 +327,7 @@ D. O(n²)
 
 ---
 
-### Q19.
+### Q19. `Medium`
 
 In a 2D array of size m × n, what is the time complexity of finding an element if the array is sorted row-wise and column-wise?
 
@@ -345,7 +345,7 @@ D. O(√(m × n))
 
 ---
 
-### Q20.
+### Q20. `Hard`
 
 What does the following modular arithmetic property represent: a^(p-1) ≡ 1 (mod p) where p is prime and gcd(a,p) = 1?
 
@@ -363,7 +363,7 @@ D. Chinese Remainder Theorem
 
 ---
 
-### Q21.
+### Q21. `Medium`
 
 Which string algorithm uses a hash function to find patterns?
 
@@ -381,7 +381,7 @@ D. Aho-Corasick Algorithm
 
 ---
 
-### Q22.
+### Q22. `Medium`
 
 What is the maximum number of subarrays possible in an array of size n?
 
@@ -399,7 +399,7 @@ D. 2^n
 
 ---
 
-### Q23.
+### Q23. `Medium`
 
 In the Dutch National Flag problem (sorting an array of 0s, 1s, and 2s), what is the optimal time complexity?
 
@@ -417,7 +417,7 @@ D. O(3n)
 
 ---
 
-### Q24.
+### Q24. `Medium`
 
 What is the time complexity of computing GCD of two numbers using the Euclidean algorithm?
 
@@ -435,7 +435,7 @@ D. O(a + b)
 
 ---
 
-### Q25.
+### Q25. `Easy`
 
 Which of the following problems can be solved efficiently using the sliding window technique?
 
@@ -453,7 +453,7 @@ D. Checking if a graph is bipartite
 
 ---
 
-### Q26.
+### Q26. `Medium`
 
 What is the result of 5^3 mod 7 using fast binary exponentiation?
 
@@ -471,7 +471,7 @@ D. 3
 
 ---
 
-### Q27.
+### Q27. `Medium`
 
 In a string, what is the maximum number of palindromic substrings possible?
 
@@ -489,7 +489,7 @@ D. 2^n - 1
 
 ---
 
-### Q28.
+### Q28. `Medium`
 
 Which technique is used to find all anagrams of a pattern in a text?
 
@@ -507,7 +507,7 @@ D. Divide and conquer
 
 ---
 
-### Q29.
+### Q29. `Easy`
 
 What is the time complexity of transposing an m × n matrix?
 
@@ -525,7 +525,7 @@ D. O(min(m, n))
 
 ---
 
-### Q30.
+### Q30. `Hard`
 
 In the two-pointer technique for finding triplets with sum equal to target in a sorted array, what is the overall time complexity?
 
